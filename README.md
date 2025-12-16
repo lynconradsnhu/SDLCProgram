@@ -1,10 +1,13 @@
 # SDLCProgram
 
 1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+   
 To interpret user needs and implement them into a program, I first focus on the user workflow that the client is asking for. Usually this workflow results in one or more user stories that can be allocated into one or more sprints. User stories enable me to think from the perspective of the user and their needs. From these stories I can write tests and use Test Driven Development to ensure the code I write matches with the client's expectations. 
 
 2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+   
 I approach developing programs with a question of "What can I do first?" Oftentimes developers do not find all the possible issues during analysis, instead finding them when writing the code. I find that taking off a bite of a requirement as soon as possible helps me find and resolve these issues faster. In addition to this, when possible I try to use Test Driven Development, focused on writing code that will pass a test. Then I use test cases built off of user stories to ensure that my code also resolves the user story.
 
 3. What does it mean to be a good team member in software development?
+
 In software development, a good team member is both a good communicator and a motivated individual. They take ownership over their code and perform all the proper testing on their own and pair program or collaborate with other teams members prior to handing over what they've done to QA. Good software developers share the spirit of collaboration and do not compete with fellow team members or commit anything without testing and/or reviewing first. They prioritize user needs or clever solutions and aim for simple and well-documented code. 
